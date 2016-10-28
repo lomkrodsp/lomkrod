@@ -1,2 +1,0 @@
-# lomkrod
-javascript amp
